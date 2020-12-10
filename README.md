@@ -43,3 +43,11 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+
+<hr>
+
+<p align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Harshita248&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita248&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
