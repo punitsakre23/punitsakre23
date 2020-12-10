@@ -51,3 +51,36 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 <img src="https://github-readme-stats.vercel.app/api?username=punitsakre23&count_private=true&show_icons=true&theme=algolia" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=punitsakre23&langs_count=5&show_icons=true&layout=compact&theme=algolia" alt="Most Used Languages">
 </p>
+<!--
+<hr>
+<details align="center">
+
+<br />
+<br />
+</details>
+-->
+
+<img src="https://github.com/punitsakre23/punitsakre23/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<br>
+<br>
+<br>
+🔭 You have finally discovered my Github profile!!
+<br>Thanks for stopping by!
+<br>
+<br>
+
+# Connect with me <img src="https://github.com/punitsakre23/punitsakre23/blob/main/Assets/Handshake.gif" height="32px">
+
+[<img align="left" alt="Punit_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/punitsakre23)
+
+<a href="https://twitter.com/sakrepunit">
+  <img align="left" alt="Punit Sakre | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+[<img align="left" alt="Punit Sakre | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/_.punit_sakre._)
+
+<a href="https://t.me/punitsakre23">
+  <img align="left" alt="Punit's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=punitsakre23&repo=punitsakre23&countColorcountColor&countColor=%237B1E7B"/>
