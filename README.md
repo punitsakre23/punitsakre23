@@ -49,7 +49,7 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 <p align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=punitsakre23&count_private=true&show_icons=true&theme=algolia" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=punitsakre23&langs_count=9&show_icons=true&layout=compact&theme=algolia" alt="Most Used Languages">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=punitsakre23&langs_count=10&show_icons=true&layout=compact&theme=algolia" alt="Most Used Languages">
 </p>
 <!--
 <hr>
