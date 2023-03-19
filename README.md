@@ -6,7 +6,7 @@
 <p align="center">
   <em>
     This is Punit Sakre, a graduate pursued B.Tech (CSE) from <a href="https://www.nrigroupindia.com"> <b>NRI Institute of Information Science and Technology</b>, Bhopal</a>. <br>
-    An aspiring <b>Full-Stack Web Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="36px">&nbsp <br><b>still a learner</b>
+    An aspiring <b>Full-Stack Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="36px">&nbsp <br><b>still a learner</b>
     with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/punitsakre23/punitsakre23/blob/main/Assets/Rocket.gif" width="18px">and a
     <b>developer</b> <img src="https://github.com/punitsakre23/punitsakre23/blob/main/Assets/Medal.gif" width="20px">&nbsp.
   </em>
@@ -16,13 +16,13 @@
 
 > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_**
 
-- <img src="https://github.com/punitsakre23/punitsakre23/blob/main/Assets/wave.gif" width="30px">&nbsp;Currently learning **_MERN stack_** 😉
+- <img src="https://github.com/punitsakre23/punitsakre23/blob/main/Assets/wave.gif" width="30px">&nbsp;Currently learning **_Java full stack_** 😉
 - <img src="https://github.com/punitsakre23/punitsakre23/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; Working on **_Competitive Programming skills..._**
 - <img src="https://github.com/punitsakre23/punitsakre23/blob/main/Assets/headbang.gif" width="30px">&nbsp;Looking forward to work on <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> projects &nbsp;!
 - <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp; Collaborating in various projects as an Open - Source Contributor <img alt="GIF" src="https://github.com/punitsakre23/punitsakre23/blob/main/Assets/powerup.gif" width="20vw" /> ...
-- <img src="https://github.com/punitsakre23/punitsakre23/blob/main/Assets/happy.gif" width="30px">&nbsp; Desire to develop new possibilities in the field of **_Data Science_** and **_ML_** 👨‍💻
+- <img src="https://github.com/punitsakre23/punitsakre23/blob/main/Assets/happy.gif" width="30px">&nbsp; Desire to develop new possibilities in the field of **_Java** 👨‍💻
 - <img src="https://github.com/punitsakre23/punitsakre23/blob/main/Assets/hmm.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court⚡️
-- <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: Love **_Reading novels_** & wish to become an **Author** of my _Own Story_ ...🌐
+- <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: Love **_Reading_** ...🌐
 
 <br><br>
 
